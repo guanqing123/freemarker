@@ -9,3 +9,5 @@
 
 + Spring配置文件 applicationContext.xml
 + Spring Freemarker Servlet配置文件 spring-servlet.xml
+
++ 尝试在Eclipse安装freemarker插件
